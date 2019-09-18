@@ -1,4 +1,4 @@
-userId();
+
 const url = "https://jsonplaceholder.typicode.com/comments";
 table = document.querySelector('table');
 async function userId() {
